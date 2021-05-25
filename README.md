@@ -1,3 +1,7 @@
+# Fork Context
+Internally hosted runners need to run as not root. The fork is setup to set Dockerfile to run as 1000 user id.
+
+
 # Scan your code with SonarCloud
 
 Using this GitHub Action, scan your code with [SonarCloud](https://sonarcloud.io/) to detects bugs, vulnerabilities and code smells in more than 20 programming languages!
